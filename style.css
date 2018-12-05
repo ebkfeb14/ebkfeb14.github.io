@@ -1,0 +1,30 @@
+body{
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  color: blue;
+  font-weight: bold;
+  text-align:center;
+  background-image: url('https://n6-img-fp.akamaized.net/free-vector/colorful-watercolor-triangles-pattern_23-2147662863.jpg?size=338&ext=jpg');
+}
+#cool{
+  position:absolute;
+  left: 8%;
+  top:29%;
+  width: 19%;
+  transform: rotate(69deg);
+}
+#nice{
+  position:absolute;
+  left:69%;
+  background-color:#2196F3; 
+  top:7%;
+  width: 15%;
+}
+p{
+  font-size: 18px;
+}
+h5{
+  font-size: 26px;
+}
+h1{
+  font-size: 40px;
+}
